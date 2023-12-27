@@ -9,3 +9,8 @@
  1. Trabalhando com Datas
  1. Visualização de dados
  1. Análise Exploratória de dados
+
+Todo o código do curso foi reaproveitado nesse repositório,
+Contudo, o projeto foi organizado para ser facilmente reprodutível ao se utilizar o organizador de pacotes
+Poetry, 
+código original na aula:"https://web.dio.me/lab/analise-de-dados-com-python-e-pandas"
